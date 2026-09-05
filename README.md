@@ -1,5 +1,5 @@
 # 💫 About Me:
-Specializing in Game and Web development and continuously learning in different fields. I like creating websites that inspire me and create gamed in different platforms. Currently still in high school who have dreams to be in computer industry in the future. Tried to learn the basics and basically every programming language out there and currently have experience with Python, C, C++, Java script and few web development ( HTML AND CSS )
+Specializing in Game and Web development and continuously learning in different fields. I like creating websites that inspire me and create game in different platforms. Currently still in high school who have dreams to be in computer industry in the future. Tried to learn the basics and basically every programming language out there and currently have experience with Python, C, C++, Java script and few web development ( HTML AND CSS )
 
 
 # 💻 Tech Stack:
